@@ -37,7 +37,7 @@ nav ul li a {
 }
 
 a:hover {
-  background-color: black;
+  background-color: #2176c5;
   transition: 3s;
 }
 .checkbtn {
